@@ -1,0 +1,152 @@
+{
+  "name": "MYF",
+  "UUID": "461baa01-0367-4445-ade0-1d24602a8b51",
+  "mediafileExtension": "wav",
+  "ssffTrackDefinitions": [
+    {
+      "name": "FORMANTS",
+      "columnName": "fm",
+      "fileExtension": "fms"
+    }
+  ],
+  "levelDefinitions": [
+    {
+      "name": "ORT-MAU",
+      "type": "SEGMENT",
+      "attributeDefinitions": [
+        {
+          "name": "ORT-MAU",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "name": "KAN-MAU",
+      "type": "SEGMENT",
+      "attributeDefinitions": [
+        {
+          "name": "KAN-MAU",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "name": "MAU",
+      "type": "SEGMENT",
+      "attributeDefinitions": [
+        {
+          "name": "MAU",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "name": "AROUSAL",
+      "type": "EVENT",
+      "attributeDefinitions": [
+        {
+          "name": "AROUSAL",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "name": "VALENCE",
+      "type": "EVENT",
+      "attributeDefinitions": [
+        {
+          "name": "VALENCE",
+          "type": "STRING"
+        }
+      ]
+    },
+    {
+      "name": "STRESS",
+      "type": "EVENT",
+      "attributeDefinitions": [
+        {
+          "name": "STRESS",
+          "type": "STRING"
+        }
+      ]
+    }
+  ],
+  "linkDefinitions": [
+    {
+      "type": "ONE_TO_MANY",
+      "superlevelName": "ORT-MAU",
+      "sublevelName": "MAU"
+    },
+    {
+      "type": "ONE_TO_MANY",
+      "superlevelName": "MAU",
+      "sublevelName": "AROUSAL"
+    },
+    {
+      "type": "ONE_TO_MANY",
+      "superlevelName": "MAU",
+      "sublevelName": "VALENCE"
+    },
+    {
+      "type": "ONE_TO_MANY",
+      "superlevelName": "ORT-MAU",
+      "sublevelName": "STRESS"
+    }
+  ],
+  "EMUwebAppConfig": {
+    "perspectives": [
+      {
+        "name": "default",
+        "signalCanvases": {
+          "order": [
+            "OSCI",
+            "SPEC"
+          ],
+          "assign": [],
+          "contourLims": []
+        },
+        "levelCanvases": {
+          "order": [
+            "ORT-MAU",
+            "KAN-MAU",
+            "MAU",
+            "AROUSAL",
+            "VALENCE",
+            "STRESS"
+          ]
+        },
+        "twoDimCanvases": {
+          "order": []
+        }
+      },
+      {
+        "name": "formants",
+        "signalCanvases": {
+          "order": [
+            "OSCI",
+            "SPEC"
+          ],
+          "assign": [],
+          "contourLims": []
+        },
+        "levelCanvases": {
+          "order": [
+            "ORT-MAU",
+            "KAN-MAU",
+            "MAU",
+            "AROUSAL",
+            "VALENCE",
+            "STRESS"
+          ]
+        },
+        "twoDimCanvases": {
+          "order": []
+        }
+      }
+    ],
+    "activeButtons": {
+      "saveBundle": true,
+      "showHierarchy": true
+    }
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "name": "female2_enthusiastic_12a_1",
+  "annotates": "female2_enthusiastic_12a_1.wav",
+  "sampleRate": 44100,
+  "levels": [
+    {
+      "name": "ORT-MAU",
+      "type": "SEGMENT",
+      "items": [
+        {
+          "id": 1,
+          "sampleStart": 0,
+          "sampleDur": 7937,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sampleStart": 7938,
+          "sampleDur": 7055,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "We"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "sampleStart": 14994,
+          "sampleDur": 8819,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "were"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sampleStart": 23814,
+          "sampleDur": 15875,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "away"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sampleStart": 39690,
+          "sampleDur": 4409,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "a"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sampleStart": 44100,
+          "sampleDur": 11465,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "year"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "sampleStart": 55566,
+          "sampleDur": 19403,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": "ago"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "sampleStart": 74970,
+          "sampleDur": 13229,
+          "labels": [
+            {
+              "name": "ORT-MAU",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KAN-MAU",
+      "type": "SEGMENT",
+      "items": [
+        {
+          "id": 9,
+          "sampleStart": 0,
+          "sampleDur": 7937,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sampleStart": 7938,
+          "sampleDur": 7055,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "w i:"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "sampleStart": 14994,
+          "sampleDur": 8819,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "w 3:"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "sampleStart": 23814,
+          "sampleDur": 15875,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "@ w {I"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "sampleStart": 39690,
+          "sampleDur": 4409,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "{I"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "sampleStart": 44100,
+          "sampleDur": 11465,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "j e:"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "sampleStart": 55566,
+          "sampleDur": 19403,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": "@ g @}"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "sampleStart": 74970,
+          "sampleDur": 13229,
+          "labels": [
+            {
+              "name": "KAN-MAU",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MAU",
+      "type": "SEGMENT",
+      "items": [
+        {
+          "id": 17,
+          "sampleStart": 0,
+          "sampleDur": 7937,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "<p:>"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "sampleStart": 7938,
+          "sampleDur": 2204,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "w"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "sampleStart": 10143,
+          "sampleDur": 4850,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "i:"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "sampleStart": 14994,
+          "sampleDur": 1322,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "w"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "sampleStart": 16317,
+          "sampleDur": 2645,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "3:"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "sampleStart": 18963,
+          "sampleDur": 4850,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "r"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "sampleStart": 23814,
+          "sampleDur": 3086,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "@"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "sampleStart": 26901,
+          "sampleDur": 3086,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "w"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "sampleStart": 29988,
+          "sampleDur": 9701,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "{I"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "sampleStart": 39690,
+          "sampleDur": 4409,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "{I"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "sampleStart": 44100,
+          "sampleDur": 4850,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "j"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "sampleStart": 48951,
+          "sampleDur": 6614,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "e:"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "sampleStart": 55566,
+          "sampleDur": 4409,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "I"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "sampleStart": 59976,
+          "sampleDur": 3527,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "g"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "sampleStart": 63504,
+          "sampleDur": 11465,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "@}"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "sampleStart": 74970,
+          "sampleDur": 13229,
+          "labels": [
+            {
+              "name": "MAU",
+              "value": "<p:>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AROUSAL",
+      "type": "EVENT",
+      "items": [
+        {
+          "id": 73,
+          "samplePoint": 8840,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.33"
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "samplePoint": 17680,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.34"
+            }
+          ]
+        },
+        {
+          "id": 76,
+          "samplePoint": 26470,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.36"
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "samplePoint": 35310,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.36"
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "samplePoint": 44100,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.32"
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "samplePoint": 52940,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.37"
+            }
+          ]
+        },
+        {
+          "id": 80,
+          "samplePoint": 61780,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.35"
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "samplePoint": 70570,
+          "labels": [
+            {
+              "name": "AROUSAL",
+              "value": "0.34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VALENCE",
+      "type": "EVENT",
+      "items": [
+        {
+          "id": 74,
+          "samplePoint": 8840,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.53"
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "samplePoint": 17680,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.53"
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "samplePoint": 26470,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.54"
+            }
+          ]
+        },
+        {
+          "id": 84,
+          "samplePoint": 35310,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.52"
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "samplePoint": 44100,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.52"
+            }
+          ]
+        },
+        {
+          "id": 86,
+          "samplePoint": 52940,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.51"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "samplePoint": 61780,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.5"
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "samplePoint": 70570,
+          "labels": [
+            {
+              "name": "VALENCE",
+              "value": "0.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "STRESS",
+      "type": "EVENT",
+      "items": []
+    }
+  ],
+  "links": [
+    {
+      "fromID": 1,
+      "toID": 17
+    },
+    {
+      "fromID": 2,
+      "toID": 18
+    },
+    {
+      "fromID": 2,
+      "toID": 19
+    },
+    {
+      "fromID": 3,
+      "toID": 20
+    },
+    {
+      "fromID": 3,
+      "toID": 21
+    },
+    {
+      "fromID": 3,
+      "toID": 22
+    },
+    {
+      "fromID": 4,
+      "toID": 23
+    },
+    {
+      "fromID": 4,
+      "toID": 24
+    },
+    {
+      "fromID": 4,
+      "toID": 25
+    },
+    {
+      "fromID": 5,
+      "toID": 26
+    },
+    {
+      "fromID": 6,
+      "toID": 27
+    },
+    {
+      "fromID": 6,
+      "toID": 28
+    },
+    {
+      "fromID": 7,
+      "toID": 29
+    },
+    {
+      "fromID": 7,
+      "toID": 30
+    },
+    {
+      "fromID": 7,
+      "toID": 31
+    },
+    {
+      "fromID": 8,
+      "toID": 32
+    },
+    {
+      "fromID": 18,
+      "toID": 73
+    },
+    {
+      "fromID": 18,
+      "toID": 74
+    },
+    {
+      "fromID": 21,
+      "toID": 75
+    },
+    {
+      "fromID": 23,
+      "toID": 76
+    },
+    {
+      "fromID": 25,
+      "toID": 77
+    },
+    {
+      "fromID": 27,
+      "toID": 78
+    },
+    {
+      "fromID": 28,
+      "toID": 79
+    },
+    {
+      "fromID": 30,
+      "toID": 80
+    },
+    {
+      "fromID": 31,
+      "toID": 81
+    },
+    {
+      "fromID": 21,
+      "toID": 82
+    },
+    {
+      "fromID": 23,
+      "toID": 83
+    },
+    {
+      "fromID": 25,
+      "toID": 84
+    },
+    {
+      "fromID": 27,
+      "toID": 85
+    },
+    {
+      "fromID": 28,
+      "toID": 86
+    },
+    {
+      "fromID": 30,
+      "toID": 87
+    },
+    {
+      "fromID": 31,
+      "toID": 88
+    }
+  ]
+}
